@@ -1,0 +1,35 @@
+--------------------------------------------------
+      SNOWFLAKE, DBT & FIVETRAN SETUP CREDENTIALS
+--------------------------------------------------
+
+This document contains the necessary credentials and information required to set up
+Snowflake, dbt, and Fivetran for your project. Please ensure this is stored securely.
+
+--------------------------------------------------
+SNOWFLAKE SETUP
+--------------------------------------------------
+• Full Account Locator (e.g. KG10297.AWS_EU_CENTRAL_2.AWS):
+• Account Locator (e.g. KG10297):
+• Account/Server URL (e.g. BYELBTA-MV59868.snowflakecomputing.com): 
+• Username: 
+• Password: 
+• Database: ANALYTICS, PSA (→ Persistent Staging Area)
+
+--------------------------------------------------
+DBT SETUP
+--------------------------------------------------
+• Username: 
+• Password: 
+• Project: Analytics
+
+--------------------------------------------------
+FIVETRAN SETUP
+--------------------------------------------------
+• Username: 
+• Password: 
+• Connector Source Details: 
+  https://drive.google.com/drive/u/0/folders/1Z_U_6SVP6vWXGJWHu9Fl_uUjieyVjaWX
+
+--------------------------------------------------
+NOTES:
+• Ensure credentials are stored securely and not shared in public repositories.
