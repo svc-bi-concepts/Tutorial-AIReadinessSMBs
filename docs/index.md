@@ -14,7 +14,7 @@ You'll learn how to integrate these tools efficiently and provide you with the f
 
 **What You'll Achieve**
 
-- Create and configure a cloud-based data warehouse.
+- Create and configure a cloud data platform.
 - Automate data ingestion and transformation.
 - Set up CI/CD and version control for analytics.
 - Implement data observability for quality assurance.
