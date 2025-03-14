@@ -11,9 +11,8 @@ To keep track of your login details for Snowflake, Fivetran, and dbt, download a
 
     1. **Snowflake Account Details**
 
-        1. Full Account Locator (e.g. `KG10297.AWS_EU_CENTRAL_2.AWS`):
-        2. Account Locator (e.g. `KG10297`):
-        2. Account/Server URL (e.g. `BYELBTA-MV59868.snowflakecomputing.com`): 
+        1. Account Identifier (e.g. `AOOMPND-AN52446`):
+        2. Account/Server URL (e.g. `AOOMPND-AN52446.snowflakecomputing.com`): 
         3. Username <your_username>:
         4. Password <your_password>:
         5. Warehouse Name: `TRANSFORMER`

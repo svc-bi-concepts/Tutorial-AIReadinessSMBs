@@ -8,9 +8,8 @@ Snowflake, dbt, and Fivetran for your project. Please ensure this is stored secu
 --------------------------------------------------
 SNOWFLAKE SETUP
 --------------------------------------------------
-• Full Account Locator (e.g. KG10297.AWS_EU_CENTRAL_2.AWS):
-• Account Locator (e.g. KG10297):
-• Account/Server URL (e.g. BYELBTA-MV59868.snowflakecomputing.com): 
+• Account Identifier (e.g. AOOMPND-AN52446):
+• Account/Server URL (e.g. AOOMPND-AN52446.snowflakecomputing.com): 
 • Username: 
 • Password: 
 • Database: ANALYTICS, PSA (→ Persistent Staging Area)

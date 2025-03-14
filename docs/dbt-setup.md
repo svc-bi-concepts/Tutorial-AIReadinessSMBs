@@ -39,18 +39,8 @@ dbt Cloud will per default set up a new project called `ANALYTICS`, which we wil
 
    3. Fill out the form .
 
-!!! bug "Make sure the full account locator is correct"
-
-      Snowflake's account locators might be different from the previousl versions. Make sure to check your snowflake account locator has no **AWS_** in the middle. If it does, remove it.
-      
-      Ideally, it would look like this: kg10297[^1].eu_central_2.aws[^2]
-
-      **Not** kg10297.**aws_**eu_central_2.aws
-      [^1]: kg10297 is the account locator
-      [^2]: eu_central_2 is the region
-
    - Connection name: `Snowflake_HWZ`
-   - Account: `Full Account Locator` from your notes in the Snowflake section.
+   - Account: `Account Identifier` from your notes in the Snowflake section.
    - Database (Target in Snowflake): `Analytics`
    - Warehouse: `Transformer`
 
